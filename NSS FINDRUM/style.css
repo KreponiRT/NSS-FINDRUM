@@ -123,4 +123,5 @@
   height: auto;
   width: 100px;
   background-color: red;
+  justify-content: center;
 }
